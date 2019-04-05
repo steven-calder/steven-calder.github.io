@@ -11,32 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Chemical Physics, University of Minnesota, 2011
+* M.S.  in Chemistry and Scientific Computing, University of Minnesota, 2008
+* B.S.  in Chemical Physics, College of William and Mary, 2006
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2016 - present: Senior Technical Lead / Principal Data Scientist
+  * Siemens
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2015 - 2016: Head of Data Sciences
+  * CrossEngage GmbH
+
+* 2013 - 2015: Data Science Consultant
+  * Clients ranged from start-ups to Fortune 500 companies
+  
+* 2011 - 2013: Research Group Leader
+  * Wageningen University
+  
+* 2006 - 2011: Research Associate
+  * Minnesota Supercomputing Institute / Institute of Technology
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Big Data
+* Cloud Computing
+* Machine Learning on Large and Imbalanced Datasets
 
-Publications
+Publications and Patents
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -54,6 +56,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
